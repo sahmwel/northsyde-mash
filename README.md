@@ -1,6 +1,6 @@
 # Northsyde Backend API
 
-Northsyde is a global cultural platform connecting Northern Nigerian music, sports, nightlife, and creative experiences with the world. This backend API powers the platform, handling user authentication, event management, and media uploads.
+Northsyde is a global cultural platform connecting Nigerian/UK music, sports, nightlife, and creative experiences with the world. This backend API powers the platform, handling user authentication, event management, and media uploads.
 
 ## ✨ Features
 
