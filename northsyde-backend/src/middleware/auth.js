@@ -1,7 +1,6 @@
 import jwt from "jsonwebtoken";
-import { PrismaClient} from '@prisma/client';
+import { prisma } from '../../prisma.js';  // two levels up to project root
 
-const prisma = new PrismaClient();
 
 export const protect = async (req, res, nest) => {
     let token;
